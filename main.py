@@ -1,0 +1,1 @@
+print('Generar clave aleatoria')
